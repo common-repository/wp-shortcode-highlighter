@@ -1,0 +1,10 @@
+#tinymce span.shortcode-highlighter-container {
+    -webkit-border-radius: 6px;
+    -moz-border-radius: 6px;
+    border-radius: 6px;
+    padding: 1px;
+    border-width:1px;
+    border-style:solid;    
+    font-size:15px;
+    font-family: 'Courier New'
+}
